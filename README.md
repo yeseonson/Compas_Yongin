@@ -1,5 +1,5 @@
-# [(용인시) 지역별 상권분석을 통한 청년창업 지원 대책 도출](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_002)
-## 진행 과정
+## [(용인시) 지역별 상권분석을 통한 청년창업 지원 대책 도출](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_002)
+### [진행 과정]
 ### 20. 12. 15. ~ 21. 01. 28.
 - 데이터 전처리
 - 데이터 기반 아이디어 도출
